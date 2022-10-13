@@ -1,8 +1,17 @@
 # Extension
-WP Plugin Boilerplate with detects auto update
+Support only PHP v8++ WP Plugin Boilerplate with detects auto update
+
+Backend Components: 
+- PHPWine v2.0
+- PHPVanilla v1.5
+- Automatic Updates For Private And Commercial Plugins 
+
+FrontEnd Components: 
+- Bootstrap 4
+- Google fonts [ Poppin, Roboto Condence | 400, 500, 600 ]
 
 
-Source: <a href="https://wppb.me/"> link </a>
+WP Generator Source: <a href="https://wppb.me/"> CLick link here > </a>
 
 <hr /> 
 
