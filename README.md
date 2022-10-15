@@ -17,7 +17,7 @@ WP Generator Source: <a href="https://wppb.me/"> CLick link here > </a>
 
 <h2>Thanks To:</h2>
 <h5>
-Github : To allow me to upload my PHP Library PHPWine Vanilla Flavour to repository<br /> 
+Github : To allow me to upload my WP Extension plugin to repository<br /> 
 </h5>
 
 __LICENSE BY GNU v3__
